@@ -30,7 +30,9 @@ body {
     background-color: #E6E6EA;
     color: #fff;
 }
-
+  h1 {
+        user-select: none;
+ }
 
 header {
     background-color:#FE4A49;
