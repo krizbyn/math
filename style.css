@@ -177,3 +177,20 @@ header {
     }
     
 }
+@media(min-width:900px) {
+    #option1:hover {
+        color: #FE4A49;
+        background-color: #fff;
+    
+    }
+    #option2:hover {
+        color: #2AB7CA;
+        background-color: #fff;
+    
+    }
+    #option3:hover {
+        color: #FED766;
+        background-color: #fff;
+    
+    }
+}
